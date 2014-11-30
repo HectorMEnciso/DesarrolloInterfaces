@@ -1,0 +1,11 @@
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\bin\Debug\Trabajo3-Recortes.exe
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\bin\Debug\Trabajo3-Recortes.pdb
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\bin\Debug\Trabajo3-Recortes.xml
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3_Recortes.Form1.resources
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3_Recortes.Resources.resources
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3-Recortes.vbproj.GenerateResource.Cache
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3-Recortes.exe
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3-Recortes.xml
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3-Recortes.pdb
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3_Recortes.Form2.resources
+C:\Users\Hector\Dropbox\DAM\ic2a\de\Trabajo3-Recortes\Trabajo3-Recortes\obj\x86\Debug\Trabajo3_Recortes.Form3.resources
